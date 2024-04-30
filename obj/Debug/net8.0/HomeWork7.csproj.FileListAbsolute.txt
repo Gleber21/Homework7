@@ -1,0 +1,15 @@
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/HomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/HomeWork7.AssemblyInfoInputs.cache
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/HomeWork7.AssemblyInfo.cs
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/HomeWork7.csproj.CoreCompileInputs.cache
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/HomeWork7.sourcelink.json
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/bin/Debug/net8.0/HomeWork7
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/bin/Debug/net8.0/HomeWork7.deps.json
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/bin/Debug/net8.0/HomeWork7.runtimeconfig.json
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/bin/Debug/net8.0/HomeWork7.dll
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/bin/Debug/net8.0/HomeWork7.pdb
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/HomeWork7.dll
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/refint/HomeWork7.dll
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/HomeWork7.pdb
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/HomeWork7.genruntimeconfig.cache
+/Users/georgetseyer/Desktop/С#/Семинары/HomeWork7/obj/Debug/net8.0/ref/HomeWork7.dll
